@@ -1,0 +1,15 @@
+/workspaces/Accuracy-based-repitition-algorithm/obj/Debug/net7.0/Accuracy-based-repitition-algorithm.csproj.AssemblyReference.cache
+/workspaces/Accuracy-based-repitition-algorithm/obj/Debug/net7.0/Accuracy-based-repitition-algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Accuracy-based-repitition-algorithm/obj/Debug/net7.0/Accuracy-based-repitition-algorithm.AssemblyInfoInputs.cache
+/workspaces/Accuracy-based-repitition-algorithm/obj/Debug/net7.0/Accuracy-based-repitition-algorithm.AssemblyInfo.cs
+/workspaces/Accuracy-based-repitition-algorithm/obj/Debug/net7.0/Accuracy-based-repitition-algorithm.csproj.CoreCompileInputs.cache
+/workspaces/Accuracy-based-repitition-algorithm/bin/Debug/net7.0/Accuracy-based-repitition-algorithm
+/workspaces/Accuracy-based-repitition-algorithm/bin/Debug/net7.0/Accuracy-based-repitition-algorithm.deps.json
+/workspaces/Accuracy-based-repitition-algorithm/bin/Debug/net7.0/Accuracy-based-repitition-algorithm.runtimeconfig.json
+/workspaces/Accuracy-based-repitition-algorithm/bin/Debug/net7.0/Accuracy-based-repitition-algorithm.dll
+/workspaces/Accuracy-based-repitition-algorithm/bin/Debug/net7.0/Accuracy-based-repitition-algorithm.pdb
+/workspaces/Accuracy-based-repitition-algorithm/obj/Debug/net7.0/Accuracy-based-repitition-algorithm.dll
+/workspaces/Accuracy-based-repitition-algorithm/obj/Debug/net7.0/refint/Accuracy-based-repitition-algorithm.dll
+/workspaces/Accuracy-based-repitition-algorithm/obj/Debug/net7.0/Accuracy-based-repitition-algorithm.pdb
+/workspaces/Accuracy-based-repitition-algorithm/obj/Debug/net7.0/Accuracy-based-repitition-algorithm.genruntimeconfig.cache
+/workspaces/Accuracy-based-repitition-algorithm/obj/Debug/net7.0/ref/Accuracy-based-repitition-algorithm.dll
