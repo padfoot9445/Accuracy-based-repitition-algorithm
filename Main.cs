@@ -1,8 +1,8 @@
 namespace RepAlgorithm;
 
-public  class RepetitionAlgorithm{
-    protected static readonly Random rnd = new();
-    private RatioModifier modifierCallBack;
+public class RepetitionAlgorithm{
+    protected static Random Rnd {get; private set;} = new();
+    private readonly RatioModifier modifierCallBack;
     public int GetIndex(ICorrectTotalRatio[] input){
        int len = input.Length;
        float[] inputRatioArray = new float[len];
@@ -12,14 +12,10 @@ public  class RepetitionAlgorithm{
         total += newValue;
         inputRatioArray[i] = newValue;
        }
-       return rnd.Next(Convert.ToInt32(total));
+       return Rnd.Next(Convert.ToInt32(total));
     }
-    public T GetValue<T>(IInputValueGroup<T>[] input) => input[GetIndex((ICorrectTotalRatio[])(from e in input select e.Ratio).ToArray())].Value;
-
-    internal void GetIndex(CorrectTotalRatio[] f)
-    {
-        throw new NotImplementedException();
-    }
+    public T GetItemValue<T>(IInputValueGroup<T>[] input) => GetItem(input, GetIndex((ICorrectTotalRatio[])(from e in input select e.Ratio).ToArray()));
+    public static T GetItem<T>(IInputValueGroup<T>[] input, int index) => input[index].Value;
 
     public RepetitionAlgorithm(RatioModifier rmodifier){modifierCallBack = rmodifier;}
 }
