@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "tqmudQ20NI2wHLDFhgy2q2xJR4ouKxqzWvw/hNFvCaPyFrV+u6YekWEiEpHZ7o1DFf98Yy2XdtFpX4vBHC1esQ==",
+  "dgSpecHash": "vFh63sqw3nJIPdCas9I9+oZgPfhjUQ1f+Cw28ov7W7FXQ3fTscqtJffXmjOum7xys2eZPrpZztQaXpuADPDjmQ==",
   "success": true,
-  "projectFilePath": "/workspaces/Accuracy-based-repitition-algorithm/Accuracy-based-repitition-algorithm.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\coding\\c#\\Learning Apps\\Algo\\Accuracy-based-repitition-algorithm-1\\Accuracy-based-repitition-algorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Isaac\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Isaac\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Isaac\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Isaac\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
