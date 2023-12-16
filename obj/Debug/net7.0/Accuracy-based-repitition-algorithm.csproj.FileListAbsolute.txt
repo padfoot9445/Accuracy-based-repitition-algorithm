@@ -13,3 +13,11 @@
 /workspaces/Accuracy-based-repitition-algorithm/obj/Debug/net7.0/Accuracy-based-repitition-algorithm.pdb
 /workspaces/Accuracy-based-repitition-algorithm/obj/Debug/net7.0/Accuracy-based-repitition-algorithm.genruntimeconfig.cache
 /workspaces/Accuracy-based-repitition-algorithm/obj/Debug/net7.0/ref/Accuracy-based-repitition-algorithm.dll
+D:\coding\c#\Learning Apps\Algo\Accuracy-based-repitition-algorithm-1\obj\Debug\net7.0\Accuracy-based-repitition-algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\c#\Learning Apps\Algo\Accuracy-based-repitition-algorithm-1\obj\Debug\net7.0\Accuracy-based-repitition-algorithm.AssemblyInfoInputs.cache
+D:\coding\c#\Learning Apps\Algo\Accuracy-based-repitition-algorithm-1\obj\Debug\net7.0\Accuracy-based-repitition-algorithm.AssemblyInfo.cs
+D:\coding\c#\Learning Apps\Algo\Accuracy-based-repitition-algorithm-1\obj\Debug\net7.0\Accuracy-based-repitition-algorithm.csproj.CoreCompileInputs.cache
+D:\coding\c#\Learning Apps\Algo\Accuracy-based-repitition-algorithm-1\obj\Debug\net7.0\Accuracy-based-repitition-algorithm.sourcelink.json
+D:\coding\c#\Learning Apps\Algo\Accuracy-based-repitition-algorithm-1\obj\Debug\net7.0\Accuracy-based-repitition-algorithm.dll
+D:\coding\c#\Learning Apps\Algo\Accuracy-based-repitition-algorithm-1\obj\Debug\net7.0\refint\Accuracy-based-repitition-algorithm.dll
+D:\coding\c#\Learning Apps\Algo\Accuracy-based-repitition-algorithm-1\obj\Debug\net7.0\Accuracy-based-repitition-algorithm.pdb
