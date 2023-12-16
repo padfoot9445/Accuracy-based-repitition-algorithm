@@ -1,5 +1,5 @@
 namespace RepAlgorithm;
-public struct CorrectTotalRatio : ICorrectTotalRatio
+public struct CorrectTotalRatio
 {
     public int Corrects {get; init;}
     public int Total {get; init;}
